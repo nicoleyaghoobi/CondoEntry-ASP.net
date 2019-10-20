@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imemarpour\\source\\repos\\CondoEntry\\CondoEntry\\CondoEntry.csproj": {}
+    "C:\\Nicole\\ASP.net\\CondoEntry-ASP.net\\CondoEntry\\CondoEntry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imemarpour\\source\\repos\\CondoEntry\\CondoEntry\\CondoEntry.csproj": {
+    "C:\\Nicole\\ASP.net\\CondoEntry-ASP.net\\CondoEntry\\CondoEntry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imemarpour\\source\\repos\\CondoEntry\\CondoEntry\\CondoEntry.csproj",
+        "projectUniqueName": "C:\\Nicole\\ASP.net\\CondoEntry-ASP.net\\CondoEntry\\CondoEntry.csproj",
         "projectName": "CondoEntry",
-        "projectPath": "C:\\Users\\imemarpour\\source\\repos\\CondoEntry\\CondoEntry\\CondoEntry.csproj",
-        "packagesPath": "C:\\Users\\imemarpour\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imemarpour\\source\\repos\\CondoEntry\\CondoEntry\\obj\\",
+        "projectPath": "C:\\Nicole\\ASP.net\\CondoEntry-ASP.net\\CondoEntry\\CondoEntry.csproj",
+        "packagesPath": "C:\\Users\\nyagh\\.nuget\\packages\\",
+        "outputPath": "C:\\Nicole\\ASP.net\\CondoEntry-ASP.net\\CondoEntry\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\imemarpour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nyagh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
